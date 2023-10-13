@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/RSTU/SPORT/app/src/main/res/drawable/bgmenu.xml" value="0.101" />
-        <entry key="..\:/RSTU/SPORT/app/src/main/res/drawable/bgnavigation.xml" value="0.101" />
-        <entry key="..\:/RSTU/SPORT/app/src/main/res/layout/activity_dasboard.xml" value="0.16" />
+        <entry key="..\:/coba/ARMAN SPORT/app/src/main/res/drawable/gradientloading.xml" value="0.1495" />
+        <entry key="..\:/coba/ARMAN SPORT/app/src/main/res/drawable/loading.xml" value="0.1495" />
+        <entry key="..\:/coba/ARMAN SPORT/app/src/main/res/layout/activity_add_sepatu.xml" value="0.20416666666666666" />
+        <entry key="..\:/coba/ARMAN SPORT/app/src/main/res/layout/activity_dasboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/coba/ARMAN SPORT/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
